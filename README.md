@@ -9,7 +9,7 @@ Below are Data Analytics projects with the various tools.
 ### Excel Projects
 #### Bike Sales Project 
 This a Customer Behaviour Analysis to understand the reasons for data purchase.					
-The purchase analysis was done in relation to the Average income of the customers, Age Bracket & the Customer Commute distance which is the distance from their home to their workplace.
+The purchase analysis was done in relation to the Average income of the customers, Age Bracket & the Customer Commute distance which is the distance from their home to their workplace. Raw Data Source: Alex The Analyst. 
 [Download File Here](https://github.com/reggie50/ReginaldErzoah.github.io/blob/main/Bike%20Sales%20Excel%20Project.xlsx)
 
 ![Bicycle](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/c7774f56-6330-4c63-b2d4-fae17c7837e7)
@@ -32,7 +32,8 @@ Raw Data Source: Data.World
 This Car Accident Analysis is to understand the situations involved in accidents in UK.										
 The Primary KPIs: Total Casualties, The Percentage of Severity of Casualties, Vehicle Type with the Most Casualties.					
 The Secondary KPIs: Total Casualties with Each Vehicle Type, Monthly Trend in 2021 VS 2022,					
-Total Casualties by Road Type, Relation Between Casualties by Area/Location & by Day/Night.		
+Total Casualties by Road Type, Relation Between Casualties by Area/Location & by Day/Night.	
+Raw Data Source: Kaggle.
 [Download File Here](https://github.com/reggie50/ReginaldErzoah.github.io/blob/main/Road%20Accident%20Excel%20Project.xlsx)
 
 ![Car Accident](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/b082afe4-ef5f-4bb1-b8bc-359bcc167820)
