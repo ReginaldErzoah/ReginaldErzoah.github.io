@@ -31,8 +31,8 @@ Raw Data Source: Data.World
 
 ![Call center](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/5f41a63a-c2b5-47a5-adbc-00a5306e8e35)
 
-#### 3. Road Accident Project: Road accident factors analysis
-This Car Accident Analysis is to understand the situations involved in accidents in UK.										
+#### 3. Road Accident Project: 
+This Car Accident Analysis is to understand the factors responsible and situations involved in accidents in UK.										
 The Primary KPIs: Total Casualties, The Percentage of Severity of Casualties, Vehicle Type with the Most Casualties.					
 The Secondary KPIs: Total Casualties with Each Vehicle Type, Monthly Trend in 2021 VS 2022,					
 Total Casualties by Road Type, Relation Between Casualties by Area/Location & by Day/Night.	
