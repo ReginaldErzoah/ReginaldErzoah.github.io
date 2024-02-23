@@ -4,7 +4,9 @@
 Reginald Erzoah is a data analyst with expertise in Excel, SQL, Tableau, Python & R.
 He is an adaptable and open-minded individual who is obsessed with continual improvement and committed to lifelong learning.
 Below are Data Analytics projects with the various tools.
+
 I am open for connection and collaboration.
+
 E-mail: reginalderzoah10@gmail.com
 
 ## Projects
