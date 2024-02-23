@@ -6,7 +6,7 @@ He is an adaptable and open-minded individual who is obsessed with continual imp
 Below are Data Analytics projects with the various tools.
 
 ## Projects
-### Excel-Projects
+### Excel Projects
 #### Bike Sales Project 
 This a Customer Behaviour Analysis to understand the reasons for data purchase.					
 The purchase analysis was done in relation to the Average income of the customers, Age Bracket & the Customer Commute distance which is the distance from their home to their workplace.
@@ -40,8 +40,8 @@ Total Casualties by Road Type, Relation Between Casualties by Area/Location & by
 
 
 
-### SQL-Projects
+### SQL Projects
 
-### Python-Projects
+### Python Projects
 
-NOTE: Kindly Note that this Porfolio will be updated regulary.
+#### NOTE: Kindly Note that this Porfolio will be updated regulary.
