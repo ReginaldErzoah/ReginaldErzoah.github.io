@@ -47,7 +47,17 @@ Raw Data Source: Kaggle.
 
 ![Car Accident](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/b082afe4-ef5f-4bb1-b8bc-359bcc167820)
 
+#### 4. Mall Sales Project
+is a customer sales analysis for selected malls in Istabul,Turkey.
+Raw data was carefully cleaned and transformed in Microsoft Excel. Charts were created to get a better understanding for the data correlation and trends. Dashboard (in project file) was created. Slicers were created to filter the data based on year, gender and shopping mall. 
+The Primary KPIs: Total Revenue & Quantity Sold.
+Secondary KPIs: Revenue per shopping mall, Revenue per gender, Revenue per payment method, Revenue per category, Revenue per year, Sales distribution & Purchases per age group.
+It was found after analysis that; The Mall of Istanbul is the top-performing mall in terms of revenue, Clothing is the most popular category, with young adults being a significant target demographic, Cash is the preferred payment method & There is a higher contribution to revenue from female customers.
+Recommendations included; focus marketing efforts on the most profitable categories, consider targeted promotions for young adults, optimize payment processes to accommodate cash transactions, explore strategies to increase male customer engagement.
+Note: All revenues were in Turkish Lira (₺).
+[Download File Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Mall%20Sales%20Excel%20Project.xlsx)
 
+![Mall](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/5c8e9489-dbb1-4ecc-9215-da5929ffacd4)
 
 
 ### SQL Projects
