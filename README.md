@@ -64,4 +64,4 @@ Note: All revenues were in Turkish Lira (₺).
 
 ### Python Projects
 
-#### NOTE: Kindly Note that this Porfolio will be updated regulary.
+#### NOTE: This Porfolio Page will be updated regulary.
