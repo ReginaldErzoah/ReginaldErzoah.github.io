@@ -35,7 +35,7 @@ Raw Data Source: Data.World
 
 ![Call center](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/5f41a63a-c2b5-47a5-adbc-00a5306e8e35)
 
-#### 3. Road Accident Project: 
+#### 3. Road Accident Project
 This Car Accident Analysis is to understand the factors responsible and situations involved in accidents in UK.  
 Raw data was cleaned, transformed and analyzed in Microsoft Excel. Charts visualized on dashboard (in project file) were all created with Pivot tables. 
 Slicers were introduced in the visualization to make filtering data according to Year and Rural/Urban possible.
