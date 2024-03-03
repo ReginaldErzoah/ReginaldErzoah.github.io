@@ -72,7 +72,7 @@ Secondary KPIs: Countries with Highest Death Count per Population, Continents wi
 
 
 ### Tableau Projects
-####1. COVID-19 Data Visualization Project
+#### 1. COVID-19 Data Visualization Project
 This is a visualization using some results from the COVID-19 Data Exploration SQL Project. 
 The dashboard generated contain visualizations in relation to some KPIs.
 Example of insights made was that Europe had the Highest Total Death Count per Continent. 
