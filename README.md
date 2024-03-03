@@ -48,7 +48,7 @@ Raw Data Source: Kaggle.
 ![Car Accident](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/b082afe4-ef5f-4bb1-b8bc-359bcc167820)
 
 #### 4. Mall Sales Project
-is a customer sales analysis for selected malls in Istabul,Turkey.
+This is a customer sales analysis for selected malls in Istabul,Turkey.
 Raw data was carefully cleaned and transformed in Microsoft Excel. Charts were created to get a better understanding for the data correlation and trends. Dashboard (in project file) was created. Slicers were created to filter the data based on year, gender and shopping mall. 
 The Primary KPIs: Total Revenue & Quantity Sold.
 Secondary KPIs: Revenue per shopping mall, Revenue per gender, Revenue per payment method, Revenue per category, Revenue per year, Sales distribution & Purchases per age group.
@@ -61,6 +61,17 @@ Note: All revenues were in Turkish Lira (₺).
 
 
 ### SQL Projects
+#### 1. COVID-19 Data Exploration Project
+This project is for analyzing and understanding the impact of the COVID-19 pandemic globally. By combining COVID-19 death data with vaccination data (these excel files are located in repository). The project also looks at how well the COVID-19 vaccination is going, giving us a complete picture of how the pandemic is unfolding.
+CTE & Partition by were used for the Cummulative of Vaccinated People. A view was created for later visualization in Tableau.
+Primary KPIs: Total COVID-19 Cases & Deaths, Death Percentage Per Total Cases, Percentage of Population Infected, Countries with Hghest Infection Rate compared to Population, Global total cases, total deaths & death percentage.
+Secondary KPIs: Countries with Highest Death Count per Population, Continents with Highest Death Counts, Percentage of Population Vaccinated, Rolling (Cummulative) People Vaccinated.
+[View Project Here]((https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)
+
+![covid](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/20965b3d-149d-441b-a9e3-66bd4f9d4c07)
+
+
+### Tableau Projects
 
 ### Python Projects
 
