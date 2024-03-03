@@ -66,7 +66,7 @@ This project is for analyzing and understanding the impact of the COVID-19 pande
 Utilizing CTE and Partition by, it calculates cumulative vaccinated individuals, and a Tableau-ready view is created.
 Primary KPIs: Total COVID-19 Cases & Deaths, Death Percentage Per Total Cases, Percentage of Population Infected, Countries with Hghest Infection Rate compared to Population, Global total cases, total deaths & death percentage.
 Secondary KPIs: Countries with Highest Death Count per Population, Continents with Highest Death Counts, Percentage of Population Vaccinated, Rolling (Cummulative) People Vaccinated.
-[View Project Here][((https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)]
+[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)
 
 ![covid](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/20965b3d-149d-441b-a9e3-66bd4f9d4c07)
 
