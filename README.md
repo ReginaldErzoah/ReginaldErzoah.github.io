@@ -1,7 +1,7 @@
 # Projects Portfolio
 
 ## Introduction
-Reginald Erzoah is a data analyst with expertise in Excel, SQL, Tableau, Python & R.
+Reginald Erzoah is a data analyst with expertise in Excel, SQL, Tableau, Power BI, Python & R.
 He is an adaptable and open-minded individual who is obsessed with continual improvement and committed to lifelong learning.
 Below are Data Analytics projects with the various tools.
 I am open for connection and collaboration.
@@ -79,6 +79,18 @@ Example of insights made was that Europe had the Highest Total Death Count per C
 To view the visualization better in Tableau, [View Here](https://public.tableau.com/app/profile/reginald.erzoah/viz/COVID-19DATAVISUALISATION/Dashboard1)
 
 ![COVID-19 Data Visualization](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/fd567e3f-86ca-434d-be00-67cd6c81d6c2)
+
+### Power BI Projects
+#### 1. Minnesota Interstate Traffic Volume Project
+This is a Minnesota Interstate Highways Traffic Volume analysis. The cleaned and transformed excel data was loaded into Power BI and analysed with distinct charts based on the traffic volume’s relation to Weather, Holiday & Year. 
+Cloudy and Clear conditions collectively contributed massively to the Traffic Volume per Weather conditions with the former being the major contributor. Rain has a fairly large amount of total traffic volume. 
+The Sum of Traffic Volume in the year 2017 was the greatest, with 2012 being the year with the least traffic volume in the interstate.
+Per holidays, New Year’s Day had the most traffic volume but holidays had no significant impact on the traffic volume.
+Recommendations: Reduction of driving or riding in precipitation & low-visibility weather conditions, should be monitored & prevented.
+Further analysis should be done later with the hourly, daily and monthly traffic volume relations in consideration.
+To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Minnesota%20Interstate%20Traffic%20Volume%20Dashboard.pbix)
+
+![Traffic Volume Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/e4e132df-2771-4e98-973c-84e2fa2f08fb)
 
 
 ### Python Projects
