@@ -113,6 +113,4 @@ To view the visualization better in Tableau, [View Here](https://public.tableau.
 
 
 
-### Python Projects
-
 #### NOTE: This Porfolio Page will be updated regulary.
