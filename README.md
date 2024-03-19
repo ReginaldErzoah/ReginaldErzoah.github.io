@@ -78,17 +78,8 @@ The KPIs include; Job Distribution, Average Balance per Marital Status, Total Cl
 
 ![Bank Target](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/54af565e-aa99-4eae-ac0f-e6be2e0a2705)
 
+
    
-
-### Tableau Projects
-#### 1. COVID-19 Data Visualization Project
-This is a visualization using some results from the COVID-19 Data Exploration SQL Project. 
-The dashboard generated contain visualizations in relation to some KPIs.
-Example of insights made was that Europe had the Highest Total Death Count per Continent. 
-To view the visualization better in Tableau, [View Here](https://public.tableau.com/app/profile/reginald.erzoah/viz/COVID-19DATAVISUALISATION/Dashboard1)
-
-![COVID-19 Data Visualization](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/fd567e3f-86ca-434d-be00-67cd6c81d6c2)
-
 ### Power BI Projects
 #### 1. Minnesota Interstate Traffic Volume Visualization
 This is a Minnesota Interstate Highways Traffic Volume analysis. The cleaned and transformed excel data was loaded into Power BI and analysed with distinct charts based on the traffic volume’s relation to Weather, Holiday & Year. 
@@ -109,6 +100,16 @@ Further analysis and segmentation could unveil deeper patterns and opportunities
 To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20Dashboard.pbix)
 
 ![Bank Target Marketing Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/679e8413-20d2-4339-a500-0f073ce378cb)
+
+
+### Tableau Projects
+#### 1. COVID-19 Data Visualization Project
+This is a visualization using some results from the COVID-19 Data Exploration SQL Project. 
+The dashboard generated contain visualizations in relation to some KPIs.
+Example of insights made was that Europe had the Highest Total Death Count per Continent. 
+To view the visualization better in Tableau, [View Here](https://public.tableau.com/app/profile/reginald.erzoah/viz/COVID-19DATAVISUALISATION/Dashboard1)
+
+![COVID-19 Data Visualization](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/fd567e3f-86ca-434d-be00-67cd6c81d6c2)
 
 
 
