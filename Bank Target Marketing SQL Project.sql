@@ -28,11 +28,11 @@ CASE
 	ELSE 'Elderly'
 END;
 
--- Segementing Clients by Job & Marital Status
+-- Segementing Clients by Job 
 
 SELECT job, COUNT(*) AS Count
 FROM BankTargeting.dbo.Target
-GROUP BY job, 
+GROUP BY job
 
 
 --Binary Target Test Based on Whether Client Made Deposit or Not.
