@@ -45,7 +45,7 @@ Visualize Conversion Rates using bar plot
 ```{r}
 ggplot(conversion_rates, aes(x=group,y=conversion_rates,fill=group))+geom_bar(stat="identity") + labs(title="Conversion Rates by Group",x="Group",y="Conversion Rate(%)")
 ```
-![](images/Webpage AB Conversion Rate Graph.png)
+
 
 
 Use Chi-square to compare the conversion rates.
