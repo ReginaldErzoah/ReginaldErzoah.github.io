@@ -114,7 +114,7 @@ To view the visualization better in Tableau, [View Here](https://public.tableau.
 ### R Projects
 #### 1. E-Commerce Webpage A/B Testing 
 This project compares the conversion rates of two groups (control and treatment) using A/B testing in R.
-The data was imported from "ab_data.csv".                                                                                                                                            
+The data was imported from a csv file.                                                                                                                                            
 Analysis Steps were; Data Exploration, Calculate Conversion Rates, Visualize Conversion Rates & Chi-square Test. 
 Per analysis, the X-squared value (1.5193) was not extremely high or low therefore there was no significant difference in both groups and the p-value (0.2177) which is greater than 0.05 
 indicates that there's no significance in the conversion rates of the treatment and control groups.
