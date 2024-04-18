@@ -1,0 +1,72 @@
+**A/B Testing with R**
+
+Install & load 'diplyr' for data manipulation & 'ggplot2' for visualization
+
+```{r}
+install.packages(c("dplyr","ggplot2"))
+library(dplyr)
+library(ggplot2)
+
+
+```
+
+Import CSV data file into R
+
+```{r}
+data <- read.csv("C:/Users/THE SKRYBLA/Desktop/Media/PROJECTS/R Projects/ab_data.csv")
+```
+
+Explore data before A/B Testing
+
+```{r}
+head(data)
+summary(data)
+
+```
+
+Find Conversion rates per group
+
+```{r}
+ conversion_rates <- data %>%
++ group_by(group) %>%
++ summarise(conversion_rates = mean(converted) * 100)
+
+print(conversion_rates)
+```
+
+```         
+ A tibble: 2 × 2   
+ group     conversion_rates   
+ <chr>                <dbl> 
+1 control               12.0 
+2 treatment             11.9
+```
+
+Visualize Conversion Rates using bar plot
+
+```{r}
+ggplot(conversion_rates, aes(x=group,y=conversion_rates,fill=group))+geom_bar(stat="identity") + labs(title="Conversion Rates by Group",x="Group",y="Conversion Rate(%)")
+```
+
+![](images/clipboard-3103561763.png)
+
+Use Chi-square to compare the conversion rates.
+
+Create a contingency table
+
+```{r}
+contingency_table <- table(data$group, data$converted)
+```
+
+Perform Chi-square test
+
+```{r}
+test_result<-chisq.test(contingency_table)
+print(test_result)
+```
+
+Result; Pearson's Chi-squared test with Yates' continuity correction data: contingency_table X-squared = 1.5193, df = 1, p-value = 0.2177
+
+The X-squared value (1.5193) was not extremely high or low therefore there was no significant difference in both groups.
+
+The p-value (0.2177) which is \>0.05 indicates that there's no significance in the conversion rates of the treatment and control groups.
