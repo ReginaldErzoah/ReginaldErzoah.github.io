@@ -9,6 +9,69 @@ I am open to connection and collaboration.
 E-mail: reginalderzoah10@gmail.com
 
 ## Projects
+### SQL Projects
+#### 1. Bank Target Marketing Project
+This is a Bank Target Marketing Campaign Analysis. Data summary statistics, segmentation & Binary Test Variable were created in SQL.
+The Binary Test was to indicate targeted clients with the condition of depositing. A new table was created in the database which included the target column.
+The KPIs include; Job Distribution, Average Balance per Marital Status, Total Clients per Deposit, Clients Segmentation per Age Group.
+[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20SQL%20Project.sql)
+
+![Bank Target](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/54af565e-aa99-4eae-ac0f-e6be2e0a2705)
+
+#### 2. COVID-19 Data Exploration Project
+This project is for analyzing and understanding the impact of the COVID-19 pandemic globally. By combining COVID-19 death data with vaccination data (these excel files are located in repository). The project also looks at how well the COVID-19 vaccination is going, giving us a complete picture of how the pandemic is unfolding.
+Utilizing CTE and Partition by, it calculates cumulative vaccinated individuals, and a Tableau-ready view is created.
+Primary KPIs: Total COVID-19 Cases & Deaths, Death Percentage Per Total Cases, Percentage of Population Infected, Countries with Highest Infection Rate compared to Population, Global total cases, total deaths & death percentage.
+Secondary KPIs: Countries with Highest Death Count per Population, Continents with Highest Death Counts, Percentage of Population Vaccinated, Rolling (Cumulative) People Vaccinated.
+[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)
+
+![covid](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/20965b3d-149d-441b-a9e3-66bd4f9d4c07)
+
+
+### R Projects
+#### 1. E-Commerce Webpage A/B Testing 
+This project compares the conversion rates of two groups (control and treatment) using A/B testing in R.
+The data was imported from a csv file.                                                                                                                                       
+Analysis Steps were; Data Exploration, Calculate Conversion Rates, Visualize Conversion Rates & Chi-square Test. 
+Per analysis, the X-squared value (1.5193) was not extremely high or low therefore there was no significant difference in both groups and the p-value (0.2177) which is greater than 0.05 
+indicates that there's no significance in the conversion rates of the treatment and control groups. It is recommeded that, the current webpage (control) is maintained because switching to a new webpage (treatment) won't lead to a significant increase in conversion rates.
+To view project file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/E-commerce%20Webpage%20AB%20Testing%20R%20Project.R)
+
+![E-Commerce Webpage A/B Testing](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/d4a954d2-9b38-4014-ac0b-b5564c450ff1)
+
+   
+### Power BI Projects
+### 1. Bank Target Marketing Visualization
+Per insights from visualization, majority of Clients fall in the Management & Blue-Collar jobs. The job distribution suggests a diverse clientele. The majority of clients fall into the middle-aged category (37,823).
+Married clients have the highest average balance ($1,458.85), and this indicates that marital status of clients may have an influence on their financial standing.
+Out of all clients, 10,578 (18.76%) have made a deposit while 45,795 (81.24%) have not. The data suggests a substantial portion of clients have not made a deposit, potentially indicating an opportunity for targeted marketing or incentive campaigns to encourage deposits.
+Further analysis and segmentation could unveil deeper patterns and opportunities for the bank to enhance its services and customer satisfaction.
+To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20Dashboard.pbix)
+
+![Bank Target Marketing Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/679e8413-20d2-4339-a500-0f073ce378cb)
+
+#### 2. Minnesota Interstate Traffic Volume Visualization
+This is a Minnesota Interstate Highways Traffic Volume analysis. The cleaned and transformed excel data was loaded into Power BI and analysed with distinct charts based on the traffic volume’s relation to Weather, Holiday & Year. 
+Cloudy and Clear conditions collectively contributed massively to the Traffic Volume per Weather conditions with the former being the major contributor. Rain has a fairly large amount of total traffic volume. 
+The Sum of Traffic Volume in the year 2017 was the greatest, with 2012 being the year with the least traffic volume in the interstate.
+Per holidays, New Year’s Day had the most traffic volume but holidays had no significant impact on the traffic volume.
+Recommendations: Reduction of driving or riding in precipitation & low-visibility weather conditions, should be monitored & prevented.
+Further analysis should be done later with the hourly, daily and monthly traffic volume relations in consideration.
+To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Minnesota%20Interstate%20Traffic%20Volume%20Dashboard.pbix)
+
+![Traffic Volume Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/e4e132df-2771-4e98-973c-84e2fa2f08fb)
+
+
+### Tableau Projects
+#### 1. COVID-19 Data Visualization Project
+This is a visualization using some results from the COVID-19 Data Exploration SQL Project. 
+The dashboard generated contain visualizations in relation to some KPIs.
+Example of insights made was that Europe had the Highest Total Death Count per Continent. 
+To view the visualization better in Tableau, [View Here](https://public.tableau.com/app/profile/reginald.erzoah/viz/COVID-19DATAVISUALISATION/Dashboard1)
+
+![COVID-19 Data Visualization](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/fd567e3f-86ca-434d-be00-67cd6c81d6c2)
+
+
 ### Excel Projects
 #### 1. Bike Sales Project 
 This a Customer Behaviour Analysis to understand the reasons for bike purchase. 
@@ -20,7 +83,6 @@ Raw Data Source: Alex The Analyst.
 [Download File Here](https://github.com/reggie50/ReginaldErzoah.github.io/blob/main/Bike%20Sales%20Excel%20Project.xlsx)
 
 ![Bicycle](https://github.com/reggie50/ReginaldErzoah.github.io/assets/147485458/c7774f56-6330-4c63-b2d4-fae17c7837e7)
-
 
 #### 2. Call Center Project
 A customer satisfaction analysis for a call center in USA.
@@ -60,67 +122,6 @@ Note: All revenues were in Turkish Lira (₺).
 ![Mall](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/5c8e9489-dbb1-4ecc-9215-da5929ffacd4)
 
 
-### SQL Projects
-#### 1. COVID-19 Data Exploration Project
-This project is for analyzing and understanding the impact of the COVID-19 pandemic globally. By combining COVID-19 death data with vaccination data (these excel files are located in repository). The project also looks at how well the COVID-19 vaccination is going, giving us a complete picture of how the pandemic is unfolding.
-Utilizing CTE and Partition by, it calculates cumulative vaccinated individuals, and a Tableau-ready view is created.
-Primary KPIs: Total COVID-19 Cases & Deaths, Death Percentage Per Total Cases, Percentage of Population Infected, Countries with Highest Infection Rate compared to Population, Global total cases, total deaths & death percentage.
-Secondary KPIs: Countries with Highest Death Count per Population, Continents with Highest Death Counts, Percentage of Population Vaccinated, Rolling (Cumulative) People Vaccinated.
-[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)
-
-![covid](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/20965b3d-149d-441b-a9e3-66bd4f9d4c07)
-
-#### 2. Bank Target Marketing Project
-This is a Bank Target Marketing Campaign Analysis. Data summary statistics, segmentation & Binary Test Variable were created in SQL.
-The Binary Test was to indicate targeted clients with the condition of depositing. A new table was created in the database which included the target column.
-The KPIs include; Job Distribution, Average Balance per Marital Status, Total Clients per Deposit, Clients Segmentation per Age Group.
-[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20SQL%20Project.sql)
-
-![Bank Target](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/54af565e-aa99-4eae-ac0f-e6be2e0a2705)
-
-
-   
-### Power BI Projects
-#### 1. Minnesota Interstate Traffic Volume Visualization
-This is a Minnesota Interstate Highways Traffic Volume analysis. The cleaned and transformed excel data was loaded into Power BI and analysed with distinct charts based on the traffic volume’s relation to Weather, Holiday & Year. 
-Cloudy and Clear conditions collectively contributed massively to the Traffic Volume per Weather conditions with the former being the major contributor. Rain has a fairly large amount of total traffic volume. 
-The Sum of Traffic Volume in the year 2017 was the greatest, with 2012 being the year with the least traffic volume in the interstate.
-Per holidays, New Year’s Day had the most traffic volume but holidays had no significant impact on the traffic volume.
-Recommendations: Reduction of driving or riding in precipitation & low-visibility weather conditions, should be monitored & prevented.
-Further analysis should be done later with the hourly, daily and monthly traffic volume relations in consideration.
-To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Minnesota%20Interstate%20Traffic%20Volume%20Dashboard.pbix)
-
-![Traffic Volume Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/e4e132df-2771-4e98-973c-84e2fa2f08fb)
-
-### 2. Bank Target Marketing Visualization
-Per insights from visualization, majority of Clients fall in the Management & Blue-Collar jobs. The job distribution suggests a diverse clientele. The majority of clients fall into the middle-aged category (37,823).
-Married clients have the highest average balance ($1,458.85), and this indicates that marital status of clients may have an influence on their financial standing.
-Out of all clients, 10,578 (18.76%) have made a deposit while 45,795 (81.24%) have not. The data suggests a substantial portion of clients have not made a deposit, potentially indicating an opportunity for targeted marketing or incentive campaigns to encourage deposits.
-Further analysis and segmentation could unveil deeper patterns and opportunities for the bank to enhance its services and customer satisfaction.
-To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20Dashboard.pbix)
-
-![Bank Target Marketing Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/679e8413-20d2-4339-a500-0f073ce378cb)
-
-
-### Tableau Projects
-#### 1. COVID-19 Data Visualization Project
-This is a visualization using some results from the COVID-19 Data Exploration SQL Project. 
-The dashboard generated contain visualizations in relation to some KPIs.
-Example of insights made was that Europe had the Highest Total Death Count per Continent. 
-To view the visualization better in Tableau, [View Here](https://public.tableau.com/app/profile/reginald.erzoah/viz/COVID-19DATAVISUALISATION/Dashboard1)
-
-![COVID-19 Data Visualization](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/fd567e3f-86ca-434d-be00-67cd6c81d6c2)
-
-### R Projects
-#### 1. E-Commerce Webpage A/B Testing 
-This project compares the conversion rates of two groups (control and treatment) using A/B testing in R.
-The data was imported from a csv file.                                                                                                                                            
-Analysis Steps were; Data Exploration, Calculate Conversion Rates, Visualize Conversion Rates & Chi-square Test. 
-Per analysis, the X-squared value (1.5193) was not extremely high or low therefore there was no significant difference in both groups and the p-value (0.2177) which is greater than 0.05 
-indicates that there's no significance in the conversion rates of the treatment and control groups. It is recommeded that, the current webpage (control) is maintained because switching to a new webpage (treatment) won't lead to a significant increase in conversion rates.
-To view project file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/E-commerce%20Webpage%20AB%20Testing%20R%20Project.R)
-
-![E-Commerce Webpage A/B Testing](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/d4a954d2-9b38-4014-ac0b-b5564c450ff1)
 
 
 
