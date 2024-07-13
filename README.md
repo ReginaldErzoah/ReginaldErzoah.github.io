@@ -124,4 +124,4 @@ Note: All revenues were in Turkish Lira (₺).
 
 
 
-#### NOTE: This Porfolio Page will be updated regulary.
+#### NOTE: This Portfolio Page will be updated regulary.
