@@ -47,7 +47,7 @@ Recommendations: Reduction of driving or riding in precipitation & low-visibilit
 Further analysis should be done later with the hourly, daily and monthly traffic volume relations in consideration.
 To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Minnesota%20Interstate%20Traffic%20Volume%20Dashboard.pbix)
 
-![Traffic Volume Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/e4e132df-2771-4e98-973c-84e2fa2f08fb)
+![Traffic Volume Dashboard](<img width="689" alt="Traffic Dashboard" src="https://github.com/user-attachments/assets/01ab0aa3-950a-456f-8af6-6e3515df5151">)
 
 ### R Projects
 #### 1. E-Commerce Webpage A/B Testing 
