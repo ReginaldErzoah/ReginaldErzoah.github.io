@@ -46,7 +46,7 @@ Per holidays, New Year’s Day had the most traffic volume but holidays had no s
 Recommendations: Reduction of driving or riding in precipitation & low-visibility weather conditions, should be monitored & prevented.
 Further analysis should be done later with the hourly, daily and monthly traffic volume relations in consideration.
 To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Minnesota%20Interstate%20Traffic%20Volume%20Dashboard.pbix)
-![Traffic Dashboard](file:///C:/Users/reginald.erzoah/Downloads/Traffic%20Dashboard.png)
+![Images/Traffic Dashboard.png](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Images/Traffic%20Dashboard.png)
 
 
 ### R Projects
