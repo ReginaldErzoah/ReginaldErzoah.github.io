@@ -1,9 +1,9 @@
 # Projects Portfolio
 
 ## Introduction
-Reginald Erzoah is a data analyst with expertise in Excel, SQL, Power BI, Tableau, Python, R, etc.
+Reginald Erzoah is a data analyst with a wide range of expertise in the use of data tools and techniques.
 He is an adaptable and open-minded individual who is obsessed with continual improvement and committed to lifelong learning.
-Below are Data Analytics projects with the various tools.
+Below are Data Analytics projects categorised based on the tools or approach used.
 I am open to connections and collaborations.
 
 E-mail: reginalderzoah10@gmail.com
