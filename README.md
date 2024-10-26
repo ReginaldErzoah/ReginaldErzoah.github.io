@@ -63,16 +63,6 @@ To view project file, [Click Here](https://github.com/ReginaldErzoah/ReginaldErz
 ![E-Commerce Webpage A/B Testing](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/d4a954d2-9b38-4014-ac0b-b5564c450ff1)
 
 
-### Tableau Projects
-#### 1. COVID-19 Data Visualization Project
-This is a visualization using some results from the COVID-19 Data Exploration SQL Project. 
-The dashboard generated contain visualizations in relation to some KPIs.
-Example of insights made was that Europe had the Highest Total Death Count per Continent. 
-To view the visualization better in Tableau, [View Here](https://public.tableau.com/app/profile/reginald.erzoah/viz/COVID-19DATAVISUALISATION/Dashboard1)
-
-![COVID-19 Data Visualization](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/fd567e3f-86ca-434d-be00-67cd6c81d6c2)
-
-
 ### Excel Projects
 #### 1. Bike Sales Project 
 This a Customer Behaviour Analysis to understand the reasons for bike purchase. 
