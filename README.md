@@ -29,7 +29,18 @@ Secondary KPIs: Countries with Highest Death Count per Population, Continents wi
 
    
 ### Power BI Projects
-### 1. Bank Target Marketing Visualization
+### 1. Sales Analytics Project
+This is a Sales Analytics BI project aimed at drawing insights into sales and profit in relation to Rep and Product performance, Regional and Customer Segments, Shipping modes, Delivery times, and more, for a Super Store using model data.
+The BI report consists of three pages: Overview,Regional & Customer Segment, and Reps & Products Performance.
+Some quick insights include: Total Sales of $2.30M, Total Profit of $286.40K, and an Average Delivery Time of 3.96 days.
+The use of navigation buttons enhances the user experience. 
+For more insights and access to the BI file, ![Click here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Sales%20Analytics%20Project.pbix)
+Download the Super Store model data ![here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Super%20Store%20Model%20Data.xlsx)
+
+![Sales Dashboard Overview Page](<img width="496" alt="Sales Overview Page" src="https://github.com/user-attachments/assets/cbddb01f-b9b3-46b3-a8d0-1d24b13037fe">)
+
+
+### 2. Bank Target Marketing Visualization
 Per insights from visualization, majority of Clients fall in the Management & Blue-Collar jobs. The job distribution suggests a diverse clientele. The majority of clients fall into the middle-aged category (37,823).
 Married clients have the highest average balance ($1,458.85), and this indicates that marital status of clients may have an influence on their financial standing.
 Out of all clients, 10,578 (18.76%) have made a deposit while 45,795 (81.24%) have not. The data suggests a substantial portion of clients have not made a deposit, potentially indicating an opportunity for targeted marketing or incentive campaigns to encourage deposits.
@@ -38,7 +49,7 @@ To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/R
 
 ![Bank Target Marketing Dashboard](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/679e8413-20d2-4339-a500-0f073ce378cb)
 
-#### 2. Minnesota Interstate Traffic Volume Visualization
+#### 3. Minnesota Interstate Traffic Volume Visualization
 This is a Minnesota Interstate Highways Traffic Volume analysis. The cleaned and transformed excel data was loaded into Power BI and analysed with distinct charts based on the traffic volume’s relation to Weather, Holiday & Year. 
 Cloudy and Clear conditions collectively contributed massively to the Traffic Volume per Weather conditions with the former being the major contributor. Rain has a fairly large amount of total traffic volume. 
 The Sum of Traffic Volume in the year 2017 was the greatest, with 2012 being the year with the least traffic volume in the interstate.
