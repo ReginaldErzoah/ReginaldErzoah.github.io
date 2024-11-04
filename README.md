@@ -15,8 +15,8 @@ This is a Sales Analytics BI project aimed at drawing insights into sales and pr
 The BI report consists of three pages: Overview,Regional & Customer Segment, and Reps & Products Performance.
 Some quick insights include: Total Sales of $2.30M, Total Profit of $286.40K, and an Average Delivery Time of 3.96 days.
 The use of navigation buttons enhances the user experience. 
-For more insights and access to the BI file, [Click here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Sales%20Analytics%20Project.pbix)
-Download the Super Store model data [here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Super%20Store%20Model%20Data.xlsx)
+For more insights and access to the BI file, [Click here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Sales%20Analytics%20Project.pbix).
+Download the Super Store model data [here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Super%20Store%20Model%20Data.xlsx).
 
 <img width="496" alt="Sales Overview Page" src="https://github.com/user-attachments/assets/cbddb01f-b9b3-46b3-a8d0-1d24b13037fe">
 
