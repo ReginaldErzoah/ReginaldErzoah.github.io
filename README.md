@@ -14,7 +14,7 @@ E-mail: reginalderzoah10@gmail.com
 This is a Sales Analytics BI project aimed at drawing insights into sales and profit in relation to Rep and Product performance, Regional and Customer Segments, Shipping modes, Delivery times, and more, for a Super Store using model data.
 The BI report consists of three pages: Overview,Regional & Customer Segment, and Reps & Products Performance.
 Some quick insights include: Total Sales of $2.30M, Total Profit of $286.40K, and an Average Delivery Time of 3.96 days.
-The use of navigation buttons enhances the user experience. 
+The use of navigation buttons and color-coded arrows on the Sales and Profit, enhances the user experience and accesibility. 
 For more insights and access to the BI file, [Click here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Sales%20Analytics%20Project.pbix).
 Download the Super Store model data [here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Super%20Store%20Model%20Data.xlsx).
 
