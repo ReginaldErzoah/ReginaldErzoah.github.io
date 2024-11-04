@@ -9,25 +9,6 @@ I am open to connections and collaborations.
 E-mail: reginalderzoah10@gmail.com
 
 ## Projects
-### SQL Projects
-#### 1. Bank Target Marketing Project
-This is a Bank Target Marketing Campaign Analysis. Data summary statistics, segmentation & Binary Test Variable were created in SQL.
-The Binary Test was to indicate targeted clients with the condition of depositing. A new table was created in the database which included the target column.
-The KPIs include; Job Distribution, Average Balance per Marital Status, Total Clients per Deposit, Clients Segmentation per Age Group.
-[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20SQL%20Project.sql)
-
-![Bank Target](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/54af565e-aa99-4eae-ac0f-e6be2e0a2705)
-
-#### 2. COVID-19 Data Exploration Project
-This project is for analyzing and understanding the impact of the COVID-19 pandemic globally. By combining COVID-19 death data with vaccination data (these excel files are located in repository). The project also looks at how well the COVID-19 vaccination is going, giving us a complete picture of how the pandemic is unfolding.
-Utilizing CTE and Partition by, it calculates cumulative vaccinated individuals, and a Tableau-ready view is created.
-Primary KPIs: Total COVID-19 Cases & Deaths, Death Percentage Per Total Cases, Percentage of Population Infected, Countries with Highest Infection Rate compared to Population, Global total cases, total deaths & death percentage.
-Secondary KPIs: Countries with Highest Death Count per Population, Continents with Highest Death Counts, Percentage of Population Vaccinated, Rolling (Cumulative) People Vaccinated.
-[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)
-
-![covid](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/20965b3d-149d-441b-a9e3-66bd4f9d4c07)
-
-   
 ### Power BI Projects
 ### 1. Sales Analytics Project
 This is a Sales Analytics BI project aimed at drawing insights into sales and profit in relation to Rep and Product performance, Regional and Customer Segments, Shipping modes, Delivery times, and more, for a Super Store using model data.
@@ -37,7 +18,7 @@ The use of navigation buttons enhances the user experience.
 For more insights and access to the BI file, ![Click here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Sales%20Analytics%20Project.pbix)
 Download the Super Store model data ![here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Super%20Store%20Model%20Data.xlsx)
 
-![Sales Dashboard Overview Page](<img width="496" alt="Sales Overview Page" src="https://github.com/user-attachments/assets/cbddb01f-b9b3-46b3-a8d0-1d24b13037fe">)
+<img width="496" alt="Sales Overview Page" src="https://github.com/user-attachments/assets/cbddb01f-b9b3-46b3-a8d0-1d24b13037fe">
 
 
 ### 2. Bank Target Marketing Visualization
@@ -60,6 +41,24 @@ To view project dashboard file, [Click Here](https://github.com/ReginaldErzoah/R
 
 <img width="689" alt="Traffic Dashboard" src="https://github.com/user-attachments/assets/40c178d0-f33e-4877-8f10-e471e85a235e">
 
+
+### SQL Projects
+#### 1. Bank Target Marketing Project
+This is a Bank Target Marketing Campaign Analysis. Data summary statistics, segmentation & Binary Test Variable were created in SQL.
+The Binary Test was to indicate targeted clients with the condition of depositing. A new table was created in the database which included the target column.
+The KPIs include; Job Distribution, Average Balance per Marital Status, Total Clients per Deposit, Clients Segmentation per Age Group.
+[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/Bank%20Target%20Marketing%20SQL%20Project.sql)
+
+![Bank Target](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/54af565e-aa99-4eae-ac0f-e6be2e0a2705)
+
+#### 2. COVID-19 Data Exploration Project
+This project is for analyzing and understanding the impact of the COVID-19 pandemic globally. By combining COVID-19 death data with vaccination data (these excel files are located in repository). The project also looks at how well the COVID-19 vaccination is going, giving us a complete picture of how the pandemic is unfolding.
+Utilizing CTE and Partition by, it calculates cumulative vaccinated individuals, and a Tableau-ready view is created.
+Primary KPIs: Total COVID-19 Cases & Deaths, Death Percentage Per Total Cases, Percentage of Population Infected, Countries with Highest Infection Rate compared to Population, Global total cases, total deaths & death percentage.
+Secondary KPIs: Countries with Highest Death Count per Population, Continents with Highest Death Counts, Percentage of Population Vaccinated, Rolling (Cumulative) People Vaccinated.
+[View Project Here](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/blob/main/COVID-19%20Data%20Exploration%20SQL%20Project.sql)
+
+![covid](https://github.com/ReginaldErzoah/ReginaldErzoah.github.io/assets/147485458/20965b3d-149d-441b-a9e3-66bd4f9d4c07)
 
 
 ### R Projects
