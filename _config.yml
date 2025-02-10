@@ -1,18 +1,8 @@
 title: Reginald Erzoah
 logo: /Images/profile.png
 description: 
-  <br>
-  <img src="/Images/profile.png" alt="Reginald Erzoah" width="150" style="border-radius: 50%;">
   <br><br>
-
-  ### 📌 Navigation  
-  - [About Me](#about-me) 
-  - [Projects](#projects)  
-  - [Contact](#contact)  
-  <br>
-
-  <a href="https://gh.linkedin.com/in/reginald-erzoah">📎 View My LinkedIn Profile</a>
-
+  <a href="https://gh.linkedin.com/in/reginald-erzoah">View My LinkedIn Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
