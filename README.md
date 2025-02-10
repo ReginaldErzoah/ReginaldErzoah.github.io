@@ -1,4 +1,4 @@
-#Data Portfolio Page
+# Data Portfolio Page
 Welcome to my portfolio page.
 
 ## About Me
@@ -8,7 +8,7 @@ I am open to connections and collaborations.
 E-mail: reginalderzoah@gmail.com
 
 
-# Projects
+## Projects
 Below are my portfolio projects.
 
 
