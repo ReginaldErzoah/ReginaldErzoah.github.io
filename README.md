@@ -1,7 +1,7 @@
 # Data Portfolio Page
 Welcome to my portfolio page.
 
-## About Me
+#### About Me
 Reginald Erzoah is a data professional helping to build an innovative data-driven market and culture.
 He is an adaptable and open-minded individual who is obsessed with continual improvement and committed to lifelong learning.
 
