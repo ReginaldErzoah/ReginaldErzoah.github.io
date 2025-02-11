@@ -12,5 +12,5 @@ E-mail: reginalderzoah@gmail.com
 
 # Projects
 Below are my portfolio projects.
-
+# PAGE IS UNDER RE-CONSTRUCTION
 
