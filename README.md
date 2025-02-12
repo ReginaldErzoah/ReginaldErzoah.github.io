@@ -31,7 +31,7 @@ An additional feature used was Power BI's built-in forecasting, which predicts t
 
 **Next Steps:** Investigate cause of low solar power generation in 2019, validate forecasts with actual 2024 data and analyze energy use by household equipment.
 
-For more details & resources in Project File. [Click Here](https://github.com/ReginaldErzoah/Data-BI-Projects/tree/main/Smart%20Energy%20Analytics%20Project)
+For more details & resources in Project Folder, [Click Here](https://github.com/ReginaldErzoah/Data-BI-Projects/tree/main/Smart%20Energy%20Analytics%20Project)
 
 ![Smart Energy Overview](https://github.com/user-attachments/assets/64bd9446-3d33-40fd-bce6-dcf9431885da)
 
