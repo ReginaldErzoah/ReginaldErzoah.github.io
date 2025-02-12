@@ -7,7 +7,7 @@ He is an adaptable and open-minded individual who is obsessed with continual imp
 
 I am open to connections and collaborations.
 
-E-mail: reginalderzoah@gmail.com
+E-mail: reginalderzoah10@gmail.com
 
 
 # Projects
