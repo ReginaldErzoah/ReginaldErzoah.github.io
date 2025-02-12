@@ -18,7 +18,7 @@ Below are grouped based on data or related field.
 ### 1. Smart Energy Analytics
 This project analyzes energy consumption trends across industries, homes, and public sectors while also predicting total energy consumption for the region.
 
-Objective: Understand the impact of grid import and solar generation on total energy consumption.
+### Objective: ### Understand the impact of grid import and solar generation on total energy consumption.
 
 Data Source: Open Power System Data, KN, Germany (2015-2019).
 Over 1.1 million records of energy consumption in industries, public areas and residences.
