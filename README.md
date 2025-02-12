@@ -13,7 +13,7 @@ E-mail: reginalderzoah10@gmail.com
 # Projects
 Projects are grouped based on data or related fields.
 
-## Data & BI Projects.
+## Data Analytics & BI Projects.
 ### 1. Smart Energy Analytics
 This project analyzes energy consumption trends across industries, homes, and public sectors while also predicting total energy consumption for the region.
 
