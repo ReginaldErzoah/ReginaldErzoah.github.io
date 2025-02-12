@@ -20,7 +20,6 @@ This project analyzes energy consumption trends across industries, homes, and pu
 **Objective:** Understand the impact of grid import and solar generation on total energy consumption.
 
 **Data Source:** Open Power System Data, KN, Germany (2015-2019).
-Over 1.1 million records of energy consumption in industries, public areas and residences.
 
 **User Experience:** Interactive features such as navigation, a dynamic filter pane, and color-coded KPI indicators enhance user experience.
 An additional feature used was Power BI's built-in forecasting, which predicts total energy consumption based on available data.
