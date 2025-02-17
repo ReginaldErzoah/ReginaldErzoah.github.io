@@ -47,4 +47,10 @@ The Smart Energy Analytics BI Dashboard was redesigned to provide stakeholders w
 
 **Next steps:** Adopting this design to other mobile platforms for broader accessibility.
 
-For more details: 
+For more details, 
+Visit project folder [Here](https://github.com/ReginaldErzoah/UI-UX-Design-Projects/tree/main/Smart%20Energy%20Analytics%20Mobile%20Optimization)
+
+Visit Figma presentation [Here](https://www.figma.com/design/8eVh433erVIdK6pdYoDX6D/Smart-Energy-Analytics---Mobile-Optimization?node-id=0-1&m=dev&t=LVuC82iXFTaNg31j-1)
+
+
+![Smart Energy Analytics Mobile Presentation](https://github.com/user-attachments/assets/746f1be2-2a9a-495c-81e2-4652ef00138a)
