@@ -35,3 +35,16 @@ For more details & resources in Project Folder, [Click Here](https://github.com/
 ![Smart Energy Overview](https://github.com/user-attachments/assets/64bd9446-3d33-40fd-bce6-dcf9431885da)
 
 
+## UI/UX Design Projects.
+### 1. Smart Energy Analytics - Mobile Optimization.
+The Smart Energy Analytics BI Dashboard was redesigned to provide stakeholders with seamless access to key data insights on their mobile devices using Figma.
+
+**Objective:** To adapt a desktop-oriented dashboard into a mobile-friendly experience without sacrificing functionality, clarity, or usability.
+
+**Key Challenges & Design Solutions:** Optimized layout for smaller screens, ensuring readability, touch-friendly gestures, simplified navigation, and fast performance for smooth mobile interactions.
+
+**Results:** The desktop dashboard was successfully adapted to a mobile-friendly version, whiles still displaying relevant visuals.
+
+**Next steps:** Adopting this design to other mobile platforms for broader accessibility.
+
+For more details: 
