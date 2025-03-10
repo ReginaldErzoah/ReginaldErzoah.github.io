@@ -54,3 +54,17 @@ Visit Figma presentation [Here](https://www.figma.com/design/8eVh433erVIdK6pdYoD
 
 
 ![Smart Energy Analytics Mobile Presentation](https://github.com/user-attachments/assets/746f1be2-2a9a-495c-81e2-4652ef00138a)
+
+
+
+# Archived Projects
+This is a list of all old projects I worked on within the timeframe of January 2024 to December 2024.
+For more info, visit Github Archived Projects Repository [Here](https://github.com/ReginaldErzoah/Archived-Projects/tree/main).
+
+1. Bank Target Marketing with SQL & Power BI.
+2. E-commerce Webpage A/B Testing using R.
+3. Weather Project for Beginners using R.
+4. Minnesota Interstate Traffic Volume Analytics using Power BI.
+5. Sales Analytics Project with Power BI.
+6. Mall Sales Analytics using Excel.
+7. Call Center Analytics using Excel.
