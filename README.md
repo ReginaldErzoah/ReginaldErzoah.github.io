@@ -42,7 +42,6 @@ To better identify the areas that needs attention and improvement.
 
 **Data Source:**
 DataCo Smart Supply Chain Dataset from Kaggle.
-https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 **User Experience:**
 The entire user-centric BI report was built in Power BI, with the background designed in Figma.
