@@ -34,7 +34,7 @@ For more details & resources in Project Folder, [Click Here](https://github.com/
 
 ![Smart Energy Overview](https://github.com/user-attachments/assets/64bd9446-3d33-40fd-bce6-dcf9431885da)
 
-### 2. Supply Chain Performance Analytics Project Summary
+### 2. Supply Chain Performance Analytics
 
 **Objective:**
 Evaluate the performance of a supply chain company.
