@@ -34,6 +34,29 @@ For more details & resources in Project Folder, [Click Here](https://github.com/
 
 ![Smart Energy Overview](https://github.com/user-attachments/assets/64bd9446-3d33-40fd-bce6-dcf9431885da)
 
+### 2. Supply Chain Performance Analytics Project Summary
+
+**Objective:**
+Evaluate the performance of a supply chain company.
+To better identify the areas that needs attention and improvement.
+
+**Data Source:**
+DataCo Smart Supply Chain Dataset from Kaggle.
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
+**User Experience:**
+The entire user-centric BI report was built in Power BI, with the background designed in Figma.
+
+**Key Insights:** Total profit amounted to $4m with total orders of 64k, On-time deliveries percentage was 17.84%, Late delivery was the most occurring delivery status and Repeat customer percentage was 60.12%
+
+
+**Next Steps:** Work on connecting the BI to a database for real-time analysis and Consider forecasting visuals for better decision making.
+
+For more details & resources in Project Folder,[Click Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/Supply%20Chain%20Performance%20Analytics)
+
+![Supply Chain Overview](https://github.com/user-attachments/assets/6b4f4f46-d7f1-44ef-b21b-f418e031daf5)
+
+
 
 ## UI/UX Design Projects.
 ### 1. Smart Energy Analytics - Mobile Optimization.
@@ -54,8 +77,6 @@ Visit Figma presentation [Here](https://www.figma.com/design/8eVh433erVIdK6pdYoD
 
 
 ![Smart Energy Analytics Mobile Presentation](https://github.com/user-attachments/assets/746f1be2-2a9a-495c-81e2-4652ef00138a)
-
-
 
 # Archived Projects
 This is a list of all old projects I worked on within the timeframe of January 2024 to December 2024.
