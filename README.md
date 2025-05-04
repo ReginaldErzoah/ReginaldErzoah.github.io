@@ -48,7 +48,7 @@ For more details & resources in Project Folder,[Click Here](https://github.com/R
 ![Supply Chain Overview](https://github.com/user-attachments/assets/6b4f4f46-d7f1-44ef-b21b-f418e031daf5)
 
 
-### 2. Smart Energy Analytics
+### 3. Smart Energy Analytics
 This project analyzes energy consumption trends across industries, homes, and public sectors while also predicting total energy consumption for the region.
 
 **Objective:** Understand the impact of grid import and solar generation on total energy consumption.
