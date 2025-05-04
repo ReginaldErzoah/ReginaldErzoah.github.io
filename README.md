@@ -16,13 +16,9 @@ Projects are grouped based on data or related fields.
 ## Data Analytics & BI Projects.
 ### 1. Personal Fitness Analytics
 This is a Personal Fitness Analytics built with the data from my Google Fit through Google Takeout.
-
 Tools used were Excel, Power BI & Figma.
-
 So what makes this project different from the others?
-
 Aside it being personal, it is also different because of the use of more dynamic narratives for a better user experience.
-
 The report is broken down into 3 pages which all track few but essential metrics on an overview, month year and year-to-date level.
 
 Project files are available in the GitHub project folder [Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/Personal%20Fitness%20Analytics)
