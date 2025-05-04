@@ -52,7 +52,6 @@ This project analyzes energy consumption trends across industries, homes, and pu
 
 **Objective:** Understand the impact of grid import and solar generation on total energy consumption.
 
-![Personal Fitness Analytics](https://github.com/user-attachments/assets/a9453a15-190e-456a-86a3-bdc63657b8e9)
 **Data Source:** Open Power System Data, KN, Germany (2015-2019).
 
 **User Experience:** Interactive features such as navigation, a dynamic filter pane, and color-coded KPI indicators enhance user experience.
