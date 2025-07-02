@@ -25,7 +25,7 @@ Aside it being personal, it is also different because of the use of more dynamic
 The report is broken down into 3 pages which all track few but essential metrics on an overview, month year and year-to-date level.
 
 Project files are available in the GitHub project folder [Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/Personal%20Fitness%20Analytics)
-![Personal Fitness Analytics](<img width="740" alt="Fits" src="https://github.com/user-attachments/assets/376f11a4-2d3f-40b5-a5d6-d3b16d0452ac" />)
+![Personal Fitness Analytics](https://github.com/user-attachments/assets/376f11a4-2d3f-40b5-a5d6-d3b16d0452ac)
 
 
 
