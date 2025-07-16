@@ -24,7 +24,7 @@ The report is broken down into 2 pages which all track few but essential metrics
 
 Project files are available in the GitHub project folder [Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/OPEX%20Vs%20Budget%20Performance%20Analytics)
 
-![OPEX Vs Budget Performance Analytics](https://github.com/user-attachments/assets/6123cfa4-24de-4be7-bd31-2987aff556df)
+![OPEX Vs Budget Performance Analytics](https://github.com/user-attachments/assets/84b01104-9fca-4b83-a958-bbb59b00f8fd)
 
 
 ### 2. Personal Fitness Analytics
