@@ -14,7 +14,19 @@ E-mail: reginalderzoah10@gmail.com
 Projects are grouped based on data or related fields.
 
 ## Data Analytics & BI Projects.
-### 1. Personal Fitness Analytics
+### 1. OPEX Vs Budget Performance Analytics
+This is a BI report to track and compare actual expenditure (OPEX) each month vs what was budgeted across certain business categories.
+This helps monitor spending and detect overspending or underspending.
+
+Tools used were Google Sheets, Power BI & Figma.
+
+The report is broken down into 2 pages which all track few but essential metrics on an executive summary and category performance level.
+
+Project files are available in the GitHub project folder [Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/OPEX%20Vs%20Budget%20Performance%20Analytics)
+![OPEX Vs Budget Performance Analytics](https://github.com/user-attachments/assets/6123cfa4-24de-4be7-bd31-2987aff556df)
+
+
+### 2. Personal Fitness Analytics
 This is a Personal Fitness Analytics built with the data from my Google Fit through Google Takeout.
 
 Tools used were Excel, Power BI & Figma.
@@ -29,7 +41,7 @@ Project files are available in the GitHub project folder [Here](https://github.c
 
 
 
-### 2. Supply Chain Performance Analytics
+### 3. Supply Chain Performance Analytics
 
 **Objective:**
 Evaluate the performance of a supply chain company.
@@ -51,7 +63,7 @@ For more details & resources in Project Folder,[Click Here](https://github.com/R
 ![Supply Chain Overview](https://github.com/user-attachments/assets/6b4f4f46-d7f1-44ef-b21b-f418e031daf5)
 
 
-### 3. Smart Energy Analytics
+### 4. Smart Energy Analytics
 This project analyzes energy consumption trends across industries, homes, and public sectors while also predicting total energy consumption for the region.
 
 **Objective:** Understand the impact of grid import and solar generation on total energy consumption.
