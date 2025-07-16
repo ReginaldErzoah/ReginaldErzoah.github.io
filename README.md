@@ -26,8 +26,20 @@ Project files are available in the GitHub project folder [Here](https://github.c
 
 ![OPEX Vs Budget Performance Analytics](https://github.com/user-attachments/assets/84b01104-9fca-4b83-a958-bbb59b00f8fd)
 
+### 2. Financial Planning & Analysis Project
+This BI report supports strategic financial planning by analyzing budget vs actual performance across departments, identifying overspending trends, and enabling forward-looking simulations through what-if scenarios.
+It provides key insights for decision-making around budget adjustments, cost optimization, and departmental performance.
+Tools used were Excel, Power BI & Figma.
 
-### 2. Personal Fitness Analytics
+The report is broken down into 3 pages which all track few but essential metrics on an executive summary, departmental performance and strategic forecasting levels.
+
+Project files are available in the GitHub project folder [Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/Financial%20Planning%20%26%20Analysis%20Project)
+
+![Financial Planning & Analysis Project](https://github.com/user-attachments/assets/45cd2bb7-0f3a-4b2d-abf4-306cb96313a2)
+
+
+
+### 3. Personal Fitness Analytics
 This is a Personal Fitness Analytics built with the data from my Google Fit through Google Takeout.
 
 Tools used were Excel, Power BI & Figma.
@@ -43,7 +55,7 @@ Project files are available in the GitHub project folder [Here](https://github.c
 
 
 
-### 3. Supply Chain Performance Analytics
+### 4. Supply Chain Performance Analytics
 
 **Objective:**
 Evaluate the performance of a supply chain company.
@@ -65,7 +77,7 @@ For more details & resources in Project Folder,[Click Here](https://github.com/R
 ![Supply Chain Overview](https://github.com/user-attachments/assets/6b4f4f46-d7f1-44ef-b21b-f418e031daf5)
 
 
-### 4. Smart Energy Analytics
+### 5. Smart Energy Analytics
 This project analyzes energy consumption trends across industries, homes, and public sectors while also predicting total energy consumption for the region.
 
 **Objective:** Understand the impact of grid import and solar generation on total energy consumption.
