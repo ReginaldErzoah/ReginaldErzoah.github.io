@@ -37,9 +37,21 @@ Project files are available in the GitHub project folder [Here](https://github.c
 
 ![Financial Planning & Analysis Project](https://github.com/user-attachments/assets/45cd2bb7-0f3a-4b2d-abf4-306cb96313a2)
 
+### 3. Retail Sales Analytics (EDA)
+This is an Exploratory Data Analysis (EDA) that explores sales performance of a retail store.
+
+Tools & Libraries used were Python, Pandas, Matplotlib, Seaborn, Plotly, VS Code.
+
+The analytics procedure included data cleaning to take care of unnecessary columns, duplicates, wrong data types, etc.
+Keys insights were derived from the dataset with viusalizations created for Regional and products profitability analysis, Month Sales vs Profit trend analysis, Sales distribution per Category analysis and an interactive scatter plot of Sales vs Profit.
 
 
-### 3. Personal Fitness Analytics
+Project files are available in the GitHub project folder [Here](https://github.com/ReginaldErzoah/Data-Analytics-BI-Projects/tree/main/Retail%20Sales%20Analytics%20(EDA))
+
+![Retail EDA](https://github.com/user-attachments/assets/52919682-d2a7-412e-abae-d54621527813)
+
+
+### 4. Personal Fitness Analytics
 This is a Personal Fitness Analytics built with the data from my Google Fit through Google Takeout.
 
 Tools used were Excel, Power BI & Figma.
@@ -55,7 +67,7 @@ Project files are available in the GitHub project folder [Here](https://github.c
 
 
 
-### 4. Supply Chain Performance Analytics
+### 5. Supply Chain Performance Analytics
 
 **Objective:**
 Evaluate the performance of a supply chain company.
@@ -77,7 +89,7 @@ For more details & resources in Project Folder,[Click Here](https://github.com/R
 ![Supply Chain Overview](https://github.com/user-attachments/assets/6b4f4f46-d7f1-44ef-b21b-f418e031daf5)
 
 
-### 5. Smart Energy Analytics
+### 6. Smart Energy Analytics
 This project analyzes energy consumption trends across industries, homes, and public sectors while also predicting total energy consumption for the region.
 
 **Objective:** Understand the impact of grid import and solar generation on total energy consumption.
