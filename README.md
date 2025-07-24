@@ -1,5 +1,6 @@
 # Data Portfolio Page
 Welcome to my Data Portfolio Page.
+This page contains projects relating to Data Analytics, UI/UX, and other data fields.
 
 # About Me
 Reginald Erzoah is a data professional helping to build an innovative data-driven market and culture.
