@@ -44,6 +44,7 @@ This is an Exploratory Data Analysis (EDA) that explores sales performance of a 
 Tools & Libraries used were Python, Pandas, Matplotlib, Seaborn, Plotly, VS Code.
 
 The analytics procedure included data cleaning to take care of unnecessary columns, duplicates, wrong data types, etc.
+
 Keys insights were derived from the dataset with viusalizations created for Regional and products profitability analysis, Month Sales vs Profit trend analysis, Sales distribution per Category analysis and an interactive scatter plot of Sales vs Profit.
 
 
